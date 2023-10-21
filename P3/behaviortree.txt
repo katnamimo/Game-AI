@@ -1,0 +1,13 @@
+INFO:root:
+Selector: High Level Ordering of Strategies
+| Sequence: Offensive Strategy
+| | Check: who_has_largest_fleet
+| | Action: attack_weakest_enemy_planet
+| | Action: attack_strategically
+| Sequence: Defensive Strategy
+| | Check: under_attack
+| | Action: defend_weakest_planet
+| Sequence: Growth Strategy
+| | Check: if_neutral_planet_available
+| | Action: spread_to_high_growthrate_planet
+| Action: attack_weakest_enemy_planet
