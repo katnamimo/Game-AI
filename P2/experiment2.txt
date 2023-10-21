@@ -1,0 +1,18 @@
+both at 100 : 
+round 1: Final win counts: {'draw': 17, 1: 44, 2: 39}
+round 2: Final win counts: {'draw': 10, 1: 44, 2: 46}
+round 3: Final win counts: {'draw': 8, 1: 45, 2: 47}
+
+the modified version seems to win slightly more games in general. 
+
+both at 1000:
+round 1: Final win counts: {'draw': 9, 1: 24, 2: 67}
+round 2: Final win counts: {'draw': 10, 1: 26, 2: 64}
+round 3: Final win counts: {'draw': 12, 1: 25, 2: 63}
+
+this version seems to significantly win more games by a large amount after increasing node numbers.
+both at 1500:
+round 1: Final win counts: {'draw': 9, 1: 19, 2: 72}
+round 2: Final win counts: {'draw': 11, 1: 25, 2: 69}
+round 3: Final win counts: {'draw': 13, 1: 23, 2: 64}
+compared to 1000, this seems to win slightly more games after increasing node numbers by a little

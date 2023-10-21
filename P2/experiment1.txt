@@ -1,0 +1,4 @@
+Both at 100 : Final win counts: {'draw': 4, 1: 54, 2: 42}
+player 2 at 300: Final win counts: {'draw': 12, 1: 46, 2: 42}
+player 2 at 500 nodes: Final win counts: {'draw': 5, 1: 54, 2: 41}
+player 2 at 1000 nodes: Final win counts: {'draw': 5, 1: 68, 2: 27}
